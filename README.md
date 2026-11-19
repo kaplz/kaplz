@@ -10,21 +10,39 @@
 
 ---
 
-### Tech Stack & Skills
+### Skills & Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,rust,java,postgres,flask,react,tailwind,git,vercel,linux&perline=7" />
-</div>
+**Languages & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=79c0ff" />
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=79c0ff" />
+  <img src="https://img.shields.io/badge/SQL-161b22?style=for-the-badge&logo=postgresql&logoColor=79c0ff" />
+  <img src="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=79c0ff" />
+  <img src="https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=79c0ff" />
+  <img src="https://img.shields.io/badge/Rust-161b22?style=for-the-badge&logo=rust&logoColor=79c0ff" />
+  <img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=79c0ff" />
+</p>
 
-<br />
+**Web, Backend & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/Flask-161b22?style=for-the-badge&logo=flask&logoColor=79c0ff" />
+  <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=79c0ff" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=for-the-badge&logo=tailwindcss&logoColor=79c0ff" />
+  <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=79c0ff" />
+  <img src="https://img.shields.io/badge/REST_API-161b22?style=for-the-badge&logo=fastapi&logoColor=79c0ff" />
+  <img src="https://img.shields.io/badge/Vercel-161b22?style=for-the-badge&logo=vercel&logoColor=79c0ff" />
+  <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=79c0ff" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AI_Vibe_Coding-161b22?style=flat-square&logo=googlegemini&logoColor=79c0ff" />
-  <img src="https://img.shields.io/badge/LLM_API_%26_Prompts-161b22?style=flat-square&logo=openai&logoColor=79c0ff" />
-  <img src="https://img.shields.io/badge/Web_Scraping_%26_Parsers-161b22?style=flat-square&logo=python&logoColor=79c0ff" />
-  <img src="https://img.shields.io/badge/Telegram_Bots-161b22?style=flat-square&logo=telegram&logoColor=79c0ff" />
-  <img src="https://img.shields.io/badge/Excel_%26_Data_Analysis-161b22?style=flat-square&logo=microsoftexcel&logoColor=79c0ff" />
-</div>
+**AI, Vibe Coding & Data Analytics**
+<p>
+  <img src="https://img.shields.io/badge/AI_Vibe_Coding-161b22?style=for-the-badge&logo=googlegemini&logoColor=79c0ff" />
+  <img src="https://img.shields.io/badge/LLM_API_%26_Prompts-161b22?style=for-the-badge&logo=openai&logoColor=79c0ff" />
+  <img src="https://img.shields.io/badge/Web_Scraping_%26_Parsers-161b22?style=for-the-badge&logo=python&logoColor=79c0ff" />
+  <img src="https://img.shields.io/badge/Telegram_Bots-161b22?style=for-the-badge&logo=telegram&logoColor=79c0ff" />
+  <img src="https://img.shields.io/badge/Excel_%26_Spreadsheets-161b22?style=for-the-badge&logo=microsoftexcel&logoColor=79c0ff" />
+  <img src="https://img.shields.io/badge/Data_Analysis-161b22?style=for-the-badge&logo=pandas&logoColor=79c0ff" />
+</p>
 
 ---
 
